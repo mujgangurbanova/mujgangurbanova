@@ -5,7 +5,7 @@
 
 -🔭 I’m currently working on e-commerce website <br/>
 -🌱 I’m currently learning Algoritms & Data Structures <br/>
--⚡ Fun fact: I love to play with my cat<br/>
+-⚡ Fun fact: I love to play with my cat <br/>
 
 
 ### Connect with me:
@@ -29,4 +29,8 @@
 
 <br />
 <br />
+
+---
+
+
 [linkedin]: www.linkedin.com/in/müjgan-qurbanova
