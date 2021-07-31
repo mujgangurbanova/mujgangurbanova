@@ -4,8 +4,8 @@
 ## I'm a Junior Front-End Developer.
 
 🔭 I’m currently working on e-commerce website <br/>
-🌱 I’m currently learning Algoritms & Data Structures <br/>
-⚡ Fun fact: I love to play with my cat <br/>
+-🌱 I’m currently learning Algoritms & Data Structures <br/>
+-⚡ Fun fact: I love to play with my cat <br/>
 
 
 ### Connect with me:
@@ -33,4 +33,4 @@
 ---
 
 
-[linkedin]: www.linkedin.com/in/müjgan-qurbanova
+[linkedin]: https://linkedin.com/in/müjgan-qurbanova
